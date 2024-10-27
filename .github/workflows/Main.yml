@@ -4,6 +4,7 @@ on:
   push:
     branches: 
       - main  # Change this to your default branch
+  workflow_dispatch:
 
 permissions:
   contents: write  # Grant write permissions for uploading releases
