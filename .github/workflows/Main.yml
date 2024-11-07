@@ -107,6 +107,7 @@ jobs:
         rm -Rf IA32
         rm -Rf Docs
         rm -Rf ./X64/EFI/OC/Resources
+        rm -Rf ./X64/EFI/OC/Tools
         echo "OpenCore X64 EFI folder has been successfully extracted."
 
     - name: Zip the EFI directory
