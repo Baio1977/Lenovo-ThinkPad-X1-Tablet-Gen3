@@ -24,7 +24,7 @@
 - NanoSIM card/microSD combo slot
 - Headphone / mic combo 
 
-## BIOS Settings:V 1.49
+## BIOS Settings:V 1.51
 
 The bios must be properly configured prior to installing macOS.
 In Security menu, set the following settings:
