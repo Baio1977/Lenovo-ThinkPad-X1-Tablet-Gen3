@@ -8,7 +8,8 @@
 ![Lenovo](./Screenshot/1.jpg)
 ![Lenovo](./Screenshot/2.jpg)
 
-# NOTE: If you want to try Hackintosh on this Tablet MOST likely the NVME SSD you have installed is NOT compatible with MacOS, YOU MUST REPLACE IT.
+# NOTE: 
+- If you want to try Hackintosh on this Tablet MOST likely the NVME SSD you have installed is NOT compatible with MacOS, YOU MUST REPLACE IT.
 
 ## Specification:
 
