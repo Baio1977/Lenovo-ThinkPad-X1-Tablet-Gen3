@@ -22,7 +22,6 @@ env:
   OC_DIR: OC
   ACPI_FILE: SSDT-Thinkpad_X1Tablet_3Gen.aml
   DRIVERS_KEEP: >
-    AudioDxe.efi
     OpenCanopy.efi
     OpenRuntime.efi
     ToggleSipEntry.efi
@@ -35,7 +34,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v7.0.1
 
       - name: Install dependencies
         run: |
